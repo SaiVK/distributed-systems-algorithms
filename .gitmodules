@@ -1,0 +1,18 @@
+[submodule "blockchain-rust"]
+	path = blockchain-rust
+	url = https://github.com/prajwaldp/blockchain-rust
+[submodule "tapestry-dht-simulation"]
+	path = tapestry-dht-simulation
+	url = https://github.com/prajwaldp/tapestry-dht-simulation
+[submodule "gossip-push-sum"]
+	path = gossip-push-sum
+	url = https://github.com/prajwaldp/gossip-push-sum
+[submodule "distributed-vampire-number-check"]
+	path = distributed-vampire-number-check
+	url = https://github.com/prajwaldp/distributed-vampire-number-check
+[submodule "distributed-systems-algorithms-in-go"]
+	path = distributed-systems-algorithms-in-go
+	url = https://github.com/prajwaldp/distributed-systems-algorithms-in-go
+[submodule "distributed-twitter-engine"]
+	path = distributed-twitter-engine
+	url = https://github.com/prajwaldp/distributed-twitter-engine
